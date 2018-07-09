@@ -1,0 +1,106 @@
+div{
+    height: 200px;
+    width: 200px;
+    border: 5px solid black;
+    float: left;
+    margin: 20px;    
+}
+
+#first{
+    transition: all 2s;
+background-color: #ff0000;
+}
+
+#first:hover
+{
+    background-color: aqua;
+}
+
+#second{
+background-color: #00ff00;
+}
+
+#second:hover   
+{
+    background-color: azure;
+}
+
+
+#third{
+background-color: #0000ff;
+}
+
+
+#third:hover
+{
+    background-color:bisque
+}
+
+   
+#fourth{
+background-color: #ffff00;
+}
+
+#fifth{
+background-color: #f000f0;
+}
+
+#sixth{
+background-color: #cf0;
+}
+
+#seventh{
+background-color: #000f00;
+}
+
+#eighth{
+background-color: #fc0;
+}
+
+#ninth{
+background-color: #cf0ca0;
+}
+
+#tenth{
+background-color: #cfcfcf;
+}
+
+#one{
+background-color: #ccffcc;
+}
+
+#two{
+background-color: #ffcccc;
+}
+
+#three{
+background-color: #ccccff;
+}
+    
+#four{
+background-color: #fffccc;
+}
+
+#five{
+background-color: #f0cffc;
+}
+
+#six{
+background-color: #cf0cfc;
+}
+
+#seven{
+background-color: #00cfcf;
+}
+
+#eight{
+background-color: #fc0cfc;
+}
+
+#nine{
+background-color: #cff0c0;
+}
+
+#twenty{
+background-color: #f0cfc0;
+}
